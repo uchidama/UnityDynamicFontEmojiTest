@@ -13,3 +13,7 @@
 
 - Unity 6 以上
 - 日本語と絵文字の両方をサポートするダイナミックフォント（例: Noto Color Emoji、Noto Sans JP）
+
+## 説明
+
+[Unity6で日本語表示、絵文字表示する](https://note.com/uchidama/n/nfbef691f3d32)
